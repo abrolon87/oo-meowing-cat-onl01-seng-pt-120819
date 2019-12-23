@@ -1,5 +1,5 @@
 ## code your solution here.
-class Cat #= Struct.new(:attr_names) do
+class Cat
 
   def name=(name)
     @name = name
