@@ -5,4 +5,5 @@ class Cat #= Struct.new(:attr_names) do
     name = @name
   end
 
+  def
 end
