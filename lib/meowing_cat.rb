@@ -6,5 +6,6 @@ class Cat #= Struct.new(:attr_names) do
   end
 
   def meow
+    puts "meow!"
   end
 end
