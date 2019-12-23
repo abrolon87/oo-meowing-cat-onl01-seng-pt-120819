@@ -11,7 +11,7 @@ class Cat #= Struct.new(:attr_names) do
 
   attr_accessor :name
 
-  end
+  
   def meow
     puts "meow!"
   end
