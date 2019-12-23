@@ -6,4 +6,5 @@ class Cat #= Struct.new(:attr_names) do
   end
 
   def
+  end
 end
